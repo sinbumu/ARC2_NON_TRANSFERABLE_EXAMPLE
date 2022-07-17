@@ -3,3 +3,5 @@
 
 이 경우는 Proxy contract 를 통해 작동하는걸 고려해서 (ARC2_NON_TRANSFERABLE.lua는 로직 컨트랙트 취급)
 delegation 관련 코드도 추가.
+
+ARC2 GIT LINK = https://github.com/aergoio/ARC2NFT
